@@ -39,19 +39,19 @@ Back to school night is Thursday September 19. Let me know if I can use your pro
 
 Samples of Student Work
 -----------------------
-Ms. Padilla
-Yailyn
-Elena
-Truman
-Ryan 
-Trinley
-Leto
-Melanie
-Rosa
-Amulya
-Diego
-Nico
-Giselle
+Ms. Padilla <br>
+Yailyn <br>
+Elena <br>
+Truman <br>
+Ryan  <br>
+Trinley <br>
+Leto <br>
+Melanie <br>
+Rosa <br>
+Amulya <br>
+Diego <br>
+Nico <br>
+Giselle <br>
 
 
 
